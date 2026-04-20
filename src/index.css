@@ -504,6 +504,7 @@ form a:hover {
   font-size: 1.1rem;
 }
 
+.no-tasks p {
   color: #718096;
   margin-bottom: 0;
 }
